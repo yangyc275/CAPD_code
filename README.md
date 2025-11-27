@@ -89,4 +89,5 @@ Qualitative results on CAMERA25 and REAL275 test set:
 Our implementation leverages the code from [NOCS](https://github.com/hughw19/NOCS_CVPR2019), [DualPoseNet](https://github.com/Gorilla-Lab-SCUT/DualPoseNet), [SPD](https://github.com/mentian/object-deformnet), and [Self-DPDN](https://github.com/JiehongLin/Self-DPDN).
 
 ## Contact
+
 `guoshuaidoc@zzu.edu.cn`
