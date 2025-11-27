@@ -5,7 +5,7 @@ Code for "Cross Attention-based Prior Deformation for Category-level 6D Pose Est
 
 Created by [yangyc275](https://github.com/yangyc275/CAPD_code), Shuai Guo, Lifeng Zhang, Chunge Cao and Yazhou Hu.
 
-![image](https://github.com/yangyc275/CAPD_code/pic/fig3_pipeline.pdf)
+![image](https://github.com/yangyc275/CAPD_code/pic/pipeline.jpg)
 
 
 ## Requirements
